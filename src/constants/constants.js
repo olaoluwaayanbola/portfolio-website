@@ -14,11 +14,11 @@ export const projects = [
     image: 'images/ecomHom.jpeg',
     tags: ['React', 'Context API','Firebase Auth','Route Auth'],
     source: 'https://github.com/olaoluwaayanbola/ecommerce/tree/SAVEPOINT/client',
-    visit: 'https://asotuntun.netlify.app/Login',
+    visit: 'https://asotuntun.netlify.app',
     id: 1,
   },
   {
-    title: 'React-admin-dashboard',
+    title: 'Admin-dashboard',
     description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
     image: '/images/3.jpg',
     tags: ['React','Redux',"MUI",'Recharts',"SASS"],
