@@ -13,7 +13,7 @@ export const projects = [
     description: "While building this project i learnt how to integrate Context API into a react application and learnt one of the best ways to authenticate routes in react using the Context API",
     image: 'images/ecomHom.jpeg',
     tags: ['React', 'Context API','Firebase Auth','Route Auth'],
-    source: 'https://google.com',
+    source: 'https://github.com/olaoluwaayanbola/ecommerce/tree/SAVEPOINT/client',
     visit: 'https://google.com',
     id: 1,
   },
