@@ -9,9 +9,9 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'ASOTUNTUN.C',
+    title: 'Asotuntun.c',
     description: "While building this project i learnt how to integrate Context API into a react application and learnt one of the best ways to authenticate routes in react using the Context API",
-    image: '',
+    image: 'images/ecomHom.jpeg',
     tags: ['React', 'Context API','Firebase Auth','Route Auth'],
     source: 'https://google.com',
     visit: 'https://google.com',
