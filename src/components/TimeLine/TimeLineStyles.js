@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 export const CarouselContainer = styled.ul`
   max-width: 1040px;
-  background: #0F1624;
+  background: #3F4A3B;
   padding: 0rem;
   list-style:none;
   display: flex;
@@ -40,7 +40,7 @@ export const CarouselMobileScrollNode = styled.div`
 `
 
 export const CarouselItem = styled.div`
-  background: #0F1624;
+  background: #3F4A3B;
   border-radius: 3px;
   max-width: 196px;
 
