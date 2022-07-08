@@ -1,9 +1,9 @@
 export const projects = [
   {
     title: 'Odun pizza',
-    description: "Using React,Next js,Mongoose & MongoDB i learnt how to build a Full Stack  Application - from start to finish. This app is called odun and it a functioning  webapp to order food  ",
-    image: '/images/1.png',
-    tags: ['MongoDB', "Mongoose",'Next js','React','Paypal',"Contex API",],
+    description: "Using React,Next js,Mongoose & MongoDB i learnt how to build a Full Stack  Application - from start to finish. This app is called odun and it is a functioning food ordering site   ",
+    image: '/images/foodH.png',
+    tags: ['MongoDB','Next js','React','Paypal',"Contex API",],
     source: 'https://github.com/olaoluwaayanbola/odun-pizza',
     visit: 'https://github.com/olaoluwaayanbola/odun-pizza',
     id: 0,
@@ -34,6 +34,15 @@ export const projects = [
     source: 'https://github.com/olaoluwaayanbola/netflix-clone',
     visit: 'https://netflixclone-one.netlify.app/',
     id: 3,
+  },
+  {
+    title: 'Cryptoverse',
+    description: "Cryptoverse is a webapp that provides current crypo data for users the most challenging aspect of builduing this web app was the implementation on the search functinality with the REST API  ",
+    image: '/images/cryv.png',
+    tags: ['React','Redux toolkit',"ANTD",'Recharts',"Coingecko API"],
+    source: 'https://github.com/olaoluwaayanbola/cryptoverse',
+    visit: 'https://cryptoverse-fx.netlify.app',
+    id: 2,
   },
 ];
 
