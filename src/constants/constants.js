@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: '',
-    description: "Using React, Node.js, Express & MongoDB i learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'Odun pizza',
+    description: "Using React,Next js,Mongoose & MongoDB i learnt how to build a Full Stack  Application - from start to finish. This app is called odun and it a functioning  webapp to order food  ",
     image: '/images/1.png',
-    tags: ['MongoDB', "Mongoose", 'React'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    tags: ['MongoDB', "Mongoose",'Next js','React','Paypal',"Contex API",],
+    source: 'https://github.com/olaoluwaayanbola/odun-pizza',
+    visit: 'https://github.com/olaoluwaayanbola/odun-pizza',
     id: 0,
   },
   {
@@ -19,9 +19,9 @@ export const projects = [
   },
   {
     title: 'Admin-dashboard',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-    image: '/images/3.jpg',
-    tags: ['React','Redux',"MUI",'Recharts',"SASS"],
+    description: "This is a react admin dashboard building this app helped me further my knowledge of redux toolkit and some design concept",
+    image: '/images/ad1.png',
+    tags: ['React','Redux',"MUI",'Recharts','Figma',"SASS"],
     source: 'https://github.com/olaoluwaayanbola/react-admin-dash',
     visit: 'https://react-admin-fxx.netlify.app/',
     id: 2,
